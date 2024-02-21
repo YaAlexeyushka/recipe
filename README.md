@@ -3,8 +3,8 @@
     <meta charset="UTF-8">
 </head>
 <body>
-    <h1 style="border-bottom: 1px solid grey">ВАФЛИ ХРУСТЯЩИЕ В ВАФЕЛЬНИЦЕ</h1>
-    <h style="font-weight: bolder;">8 порций</h>
+    <h1 style="border-bottom: 1px solid grey">Омлет с овощами в сковороде</h1>
+    <h style="font-weight: bolder">8 порций</h>
     <table>
         <tr>
             <th>Яйца</th>
@@ -35,7 +35,7 @@
             <th>30 гр</th>
         </tr>
     </table>
-    <h>ПОШАГОВОЕ ПРИГОТОВЛЕНИЕ</h>
+    <h2>ПОШАГОВОЕ ПРИГОТОВЛЕНИЕ</h2>
     <p>Время приготовления: 20 мин</p>
     <ol>
         <li>Нарежьте помидор, перец и лук кубиками.</li>
