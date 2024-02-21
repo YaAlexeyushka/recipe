@@ -3,8 +3,8 @@
     <meta charset="UTF-8">
 </head>
 <body>
-    <h1 style="border-bottom: 1px solid grey">Омлет с овощами в сковороде</h1>
-    <h style="font-weight: bolder">8 порций</h>
+    <h1>Омлет с овощами в сковороде</h1>
+    <h>8 порций</h>
     <table>
         <tr>
             <th>Яйца</th>
